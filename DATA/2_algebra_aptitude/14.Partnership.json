@@ -1,0 +1,1924 @@
+{
+  "questions": [
+    {
+      "id": "M.2.14.S.1",
+      "type": "MCQuestion",
+      "text": "Rahul, Arun, and Sumit started a business. Rahul invested 1/2 part, Arun 1/3 part, and the rest of the capital was invested by Sumit. The ratio of their profits will be:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "P.C.S., 2006",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2 : 3 : 1",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3 : 2 : 1",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2 : 3 : 6",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3 : 2 : 5",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.2",
+      "type": "MCQuestion",
+      "text": "P and Q started a business investing 85000 and 15000 respectively. In what ratio will the profit earned after 2 years be divided between P and Q respectively?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3 : 4",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3 : 5",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "15 : 23",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "17 : 23",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.3",
+      "type": "MCQuestion",
+      "text": "Anand and Deepak started a business investing 22500 and 35000 respectively. Out of a total profit of 13800, Deepak\u2019s share is:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "5400",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "7200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "8400",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "9600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.4",
+      "type": "MCQuestion",
+      "text": "Samaira, Mahira, and Kiara rented a set of DVDs at a rent of 578. If they used it for 8 hours, 12 hours, and 14 hours respectively, what is Kiara\u2019s share of the rent to be paid?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2008",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "192",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "204",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "215",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "238",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.5",
+      "type": "MCQuestion",
+      "text": "P, Q, and R invested 45000, 70000, and 90000 respectively to start a business. At the end of 2 years, they earned a profit of 164000. What will be Q\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2009",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "36000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "56000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "64000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "72000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.6",
+      "type": "MCQuestion",
+      "text": "Prakash, Sachin, and Anil started a business jointly investing 11 lakh, 16.5 lakh, and 8.25 lakh respectively. The profit earned by them in the business at the end of 3 years was 19.5 lakh. What will be 50% of Anil\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2009",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2.25 lakh",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2.5 lakh",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3.75 lakh",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "4.5 lakh",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.7",
+      "type": "MCQuestion",
+      "text": "Two friends invested 1500 and 2500 in a business. They earned a profit of 800. One-half of the profit was divided equally between them, and the other half was divided in proportion to their capitals. How much did each of them receive?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Campus Recruitment, 2009",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "350 and 450",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "360 and 440",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "370 and 430",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "375 and 425",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.8",
+      "type": "MCQuestion",
+      "text": "Three persons started a placement business with a capital of 3000. B invests 600 less than A, and C invests 300 less than B. What is B\u2019s share in a profit of 886?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Campus Recruitment, 2010",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "443",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "354.40",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "265.80",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "177.20",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.9",
+      "type": "MCQuestion",
+      "text": "Reena and Shaloo are partners in a business. Reena invests \u20b935,000 for 8 months and Shaloo invests \u20b942,000 for 10 months. Out of a profit of \u20b931,570, Reena\u2019s share is:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2008",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99471",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b912,628",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b918,040",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b918,942",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.10",
+      "type": "MCQuestion",
+      "text": "Shankar started a business with an investment of \u20b9120,000. After three months, Aniket joined him with an investment of \u20b9190,000. They earned a profit of \u20b917,50,000 after one year. What is Aniket\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2008",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9800,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9850,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9900,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9950,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.11",
+      "type": "MCQuestion",
+      "text": "Arun started a business investing \u20b938,000. After 5 months, Bakul joined him with a capital of \u20b955,000. At the end of the year, the total profit was \u20b922,000. What is the approximate difference between the shares of profits of Arun and Bakul?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2007",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91007",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91192",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91568",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91857",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.12",
+      "type": "MCQuestion",
+      "text": "Gautam started a business with a sum of \u20b960,000. Jatin joined him 8 months later with a sum of \u20b935,000. At what respective ratio will the two share the profit after two years?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2008",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2:1",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3:1",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "18:7",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "37:14",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.13",
+      "type": "MCQuestion",
+      "text": "Simran started a software business by investing \u20b950,000. After six months, Nanda joined her with a capital of \u20b980,000. After 3 years, they earned a profit of \u20b924,500. What was Simran\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "Bank P.O., 2004",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99423",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b910,250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b912,500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b914,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.14",
+      "type": "MCQuestion",
+      "text": "Dilip, Ram and Avtar started a shop by investing \u20b92700, \u20b98100 and \u20b97200 respectively. At the end of one year, the profit earned was distributed. If Ram\u2019s share was \u20b93600, what was their total profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "R.R.B., 2006",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b98000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b910800",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b911600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "Data inadequate",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.15",
+      "type": "MCQuestion",
+      "text": "A and B started a business in partnership investing \u20b920,000 and \u20b915,000 respectively. After six months, C joined them with \u20b920,000. What will be B\u2019s share in the total profit of \u20b925,000 earned at the end of 2 years from the starting of the business?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 1,
+      "tag": "",
+      "difficulty": "EASY",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b97500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b910000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.16",
+      "type": "MCQuestion",
+      "text": "Aman started a business investing \u20b970,000. Rakhi joined him after six months with an amount of \u20b91,05,000 and Sagar joined them with \u20b91.4 lakhs after another six months. The amount of profit earned should be distributed in what ratio among Aman, Rakhi and Sagar respectively, 3 years after Aman started the business?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "7:6:10",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "12:15:16",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "42:45:56",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "Cannot be determined",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.17",
+      "type": "MCQuestion",
+      "text": "Sonia started a business investing \u20b960,000. After 6 months Vivek joined him with an amount of \u20b91,40,000. After 1 year Kirti also joined them with \u20b91,20,000. After 2 years the business yielded a total profit of \u20b94,50,000. What is the share of Vivek in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "Bank P.O., 2005",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91,40,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91,98,500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92,10,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92,15,000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.18",
+      "type": "MCQuestion",
+      "text": "Arun, Kamal and Vinay invested \u20b98000, \u20b94000 and \u20b98000 respectively in a business. Arun left after six months. If after eight months, there was a gain of \u20b94005, then what will be the share of Kamal?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9890",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91335",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91602",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91780",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.19",
+      "type": "MCQuestion",
+      "text": "P and Q started a business in the ratio of 2 : 3. After 1 year P left the business but Q continues. After 2 years he had the profit of \u20b926000. What is the profit of Q?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "Bank Recruitment, 2007",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b910400",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b913000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b915600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b918500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.20",
+      "type": "MCQuestion",
+      "text": "A, B and C enter into a partnership. A invests some money at the beginning, B invests double the amount after six months and C invests thrice the amount after eight months. If the annual profit be \u20b927000; C\u2019s share (in \u20b9) is",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "G.B.O., 2007",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b98625",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b910800",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b911250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.21",
+      "type": "MCQuestion",
+      "text": "A, B and C enter into a partnership. They invest \u20b940000, \u20b980000 and \u20b9120000 respectively. At the end of the first year, B withdraws \u20b940000, while at the end of the second year, C withdraws \u20b980000. In what ratio will the profit be shared at the end of 3 years?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2 : 3 : 5",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "3 : 4 : 7",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "4 : 5 : 9",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "None of these",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.22",
+      "type": "MCQuestion",
+      "text": "A, B and C enter into a partnership. A initially invests \u20b925 lakhs and adds another \u20b910 lakhs after one year. B initially invests \u20b935 lakhs and withdraws \u20b910 lakhs after 2 years and C invests \u20b930 lakhs. In what ratio should the profits be divided at the end of 3 years?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "10 : 10 : 9",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "20 : 20 : 19",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "20 : 19 : 18",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "None of these",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.23",
+      "type": "MCQuestion",
+      "text": "Subhash starts a business by investing \u20b925000. 6 months later Aditya joins him by investing \u20b915000. After another 6 months Aditya invests an additional amount of \u20b915000. At the end of 3 years they earn a profit of \u20b9247000. What is Aditya\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "Bank P.O., 2006",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9105000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9111500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9123000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9130000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.24",
+      "type": "MCQuestion",
+      "text": "Shekhar started a business investing \u20b925000 in 2009. In 2010, he invested an additional amount of \u20b910000 and Rajeev joined him with an amount of \u20b935000. In 2011, Shekhar invested another additional amount of \u20b910000 and Jatin joined them with an amount of \u20b935000. What will be Rajeev\u2019s share in the profit of \u20b9150000 earned at the end of 3 years from the start of the business in 2009?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b945000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b950000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b970000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b975000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.25",
+      "type": "MCQuestion",
+      "text": "A and B entered into a partnership investing \u20b916000 and \u20b912000 respectively. After 3 months, A withdrew \u20b95000 while B invested \u20b95000 more. After 3 more months, C joins the business with a capital of \u20b921000. The share of B exceeds that of C, out of a total profit of \u20b926,400 after one year by",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92400",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b93000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b93600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b94800",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.26",
+      "type": "MCQuestion",
+      "text": "A and B start a business with investments of \u20b95000 and \u20b94500 respectively. After 4 months, A takes out half of his capital. After two more months, B takes out one-third of his capital while C joins them with a capital of \u20b97000. At the end of a year, they earn a profit of \u20b95080. Find the share of each member in the profit.",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "Bank P.O., 2003",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "A \u2013 \u20b91400, B \u2013 \u20b91900, C \u2013 \u20b91780",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "A \u2013 \u20b91600, B \u2013 \u20b91800, C \u2013 \u20b91680",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "A \u2013 \u20b91800, B \u2013 \u20b91500, C \u2013 \u20b91780",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "A \u2013 \u20b91680, B \u2013 \u20b91600, C \u2013 \u20b91800",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.27",
+      "type": "MCQuestion",
+      "text": "A, B, C subscribe \u20b950000 for a business. A subscribes \u20b94000 more than B and B \u20b95000 more than C. Out of a total profit of \u20b935000, A receives:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "M.A.T., 2005",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b98400",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b911900",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b913600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b914700",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.28",
+      "type": "MCQuestion",
+      "text": "A, B and C are three partners. They altogether invested \u20b914000 in business. At the end of the year, A got \u20b9337.50, B \u20b91125 and C \u20b9637.50 as profit. The difference between the investments of B and A was:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "M.A.T., 2010",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b93200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b94200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b95250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.29",
+      "type": "MCQuestion",
+      "text": "A, B and C started a business investing amounts in the ratio of 5 : 6 : 8 respectively. After one year, C withdrew 50% of the amount and A invested an additional amount of 60% of the original amount invested by him. In what ratio, the profit earned at the end of 2 years should be distributed among A, B and C respectively?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "Bank P.O., 2004",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "2 : 3 : 3",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "4 : 3 : 2",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "13 : 12 : 12",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "Cannot be determined",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.30",
+      "type": "MCQuestion",
+      "text": "John, Mona and Gordon, three US-based business partners, jointly invested in a business project to supply nuclear fuel to India. As per their share in the investment, Gordon will receive 2/3 of the profits whereas John and Mona divide the remainder equally. It is estimated that the income of John will increase by $60 million when the rate of profit rises from 4% to 7%. What is Mona\u2019s capital?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 2,
+      "tag": "M.B.A., 2009",
+      "difficulty": "MEDIUM",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "$2000 million",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "$3000 million",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "$5000 million",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "$8000 million",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.31",
+      "type": "MCQuestion",
+      "text": "Anu is a working partner and Bimla is a sleeping partner in a business. Anu puts in \u20b95000 and Bimla puts in \u20b96000. Anu receives 12.5% of the profit for managing the business and the rest is divided in proportion to their capitals. What does each get out of a profit of \u20b9880?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "M.A.T., 2010",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9400, \u20b9480",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9450, \u20b9430",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9460, \u20b9420",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9470, \u20b9410",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.32",
+      "type": "MCQuestion",
+      "text": "Two partners invested \u20b9125000 and \u20b985000 respectively in a business. They distribute 60% of the profit equally and decide to distribute the remaining 40% as the interest on their capitals. If one partner received \u20b93000 more than the other, the total profit is:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b942250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b939375",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b938840",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b936575",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.33",
+      "type": "MCQuestion",
+      "text": "Three partners A, B, C start a business. Twice A\u2019s capital is equal to thrice B\u2019s capital and B\u2019s capital is four times C\u2019s capital. Out of a total profit of \u20b916500 at the end of the year, B\u2019s share is:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b94000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b96000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b97500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b96600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.34",
+      "type": "MCQuestion",
+      "text": "If 4 (A\u2019s capital) = 6 (B\u2019s capital) = 10 (C\u2019s capital), then out of a profit of \u20b94650, C will receive:",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9465",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9900",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91550",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.35",
+      "type": "MCQuestion",
+      "text": "Ninad, Vikas and Manav enter into a partnership. Ninad invests some amount at the beginning. Vikas invests double the amount after 6 months and Manav invests thrice the amount invested by Ninad after 8 months. They earn a profit of \u20b945000 at the end of the year. What is Manav\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "S.B.I.P.O., 2008",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b99000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b912000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b915000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b925000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.36",
+      "type": "MCQuestion",
+      "text": "Four milkmen rented a pasture. A grazed 15 cows for 4 months, B grazed 12 cows for 2 months, C grazed 18 cows for 6 months and D grazed 16 cows for 5 months. If A\u2019s share of rent is \u20b91020, what is C\u2019s share of rent?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "Bank P.O., 2008",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b9816",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91020",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91148",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91224",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.37",
+      "type": "MCQuestion",
+      "text": "Two friends X and Y started a business by investing \u20b912000 and \u20b99000 respectively. After 6 months, X withdrew \u20b94000 and Y added \u20b97000. If the total profit at the end of the year is \u20b95050, what is Y\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "Bank P.O., 2010",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92850",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b93250",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91900",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.38",
+      "type": "MCQuestion",
+      "text": "A starts a business with \u20b93500 and after 5 months, B joins with \u20b94000. If B gets \u20b9600 out of a total profit of \u20b91900 after a year, for how many months did the business run?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "M.A.T., 2013",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "10 months",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "12 months",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "15 months",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "18 months",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.39",
+      "type": "MCQuestion",
+      "text": "Three partners, A, B, and C, invested \u20b96000, \u20b98000, and \u20b910000 respectively to start a business. After 6 months, C withdrew \u20b94000. At the end of the year, the total profit was \u20b96000. What was A\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "Bank Clerk, 2011",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91200",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91600",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91800",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "M.2.14.S.40",
+      "type": "MCQuestion",
+      "text": "P, Q, and R enter into a partnership. P invests \u20b98000 for 6 months, Q invests \u20b96000 for 8 months, and R invests \u20b910000 for 12 months. If the total profit is \u20b98000, what is Q\u2019s share in the profit?",
+      "is_latex": false,
+      "is_image": false,
+      "image_url": null,
+      "latex_string": null,
+      "xp": 3,
+      "tag": "M.A.T., 2014",
+      "difficulty": "HARD",
+      "topic": "Algebra and Quantitative Aptitude",
+      "chapter": "Partnership",
+      "option_list": [
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b91500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": true
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b92500",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        },
+        {
+          "is_image": false,
+          "is_latex": false,
+          "text": "\u20b93000",
+          "latex_string": null,
+          "image_url": null,
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
